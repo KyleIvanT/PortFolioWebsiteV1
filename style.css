@@ -1,0 +1,43 @@
+
+.header-background{
+    background: linear-gradient(300deg, #49BEB7, #FFC93C);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+    margin-bottom: 100px;
+    
+}
+.title{
+    font-family: Helvetica, sans-serif;
+    font-weight: bolder;
+    font-style:normal;
+    font-size: xxx-large;
+}
+.header{
+    font-family: Helvetica, sans-serif;
+    font-weight: bold;
+    font-style:normal;
+    text-align: center;
+    margin-top: 25px;
+}
+.inner-item{
+    list-style:circle
+}
+ul{
+    list-style: none;
+    font-family: serif;
+    font-size: large;
+    font-weight: lighter;
+}
+.test{
+    background-color: #19A7CE;
+}
+.border{
+    border: solid 4px whitesmoke;
+    border-radius: 15%;
+}
+p{
+    list-style: none;
+    font-family: serif;
+    font-size: large;
+    font-weight: lighter;
+}
